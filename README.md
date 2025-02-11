@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 >
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=38&center=true&color=0088CC&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Erivando+Ferreira!;" />
+</h1>
 
-<!--
-**erivandoeey/erivandoeey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 >Estudante de Bacharelado em Sistemas de Informação</h3>
+<div > 
+  <a href="https://www.linkedin.com/in/erivando-n-2a6b1a307/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+<br/>
 
-Here are some ideas to get you started:
+<div >
+ 
+ 
+- 🔭 Estudante de Bacharelado em Sistemas de Informação
+- 🌱 Estudando javaScript / python
+- 😄 Pronouns: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 >⚒️ Linguagens de Programação e Framework ⚒️</h2>
+<br/>
+<div>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,mongodb,java,mysql," /><br>
+</div>
+
+<br/>
